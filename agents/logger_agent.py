@@ -17,3 +17,4 @@ class LoggerAgent:
         with open(self.logfile, "a") as f:
             f.write(json.dumps(entry) + "\n")
         print(f"[LoggerAgent] Logged: {entry}")
+
