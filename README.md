@@ -60,7 +60,7 @@ Deployment	Local execution via VS Code
     This will launch a Gradio interface at http://127.0.0.1:7860
 
 Architecture Diagram
-
+--AIEXAM\Arch Diagram.png
 # Roadmap
 Day	Milestone
     1	Google Cloud STT & TTS setup
@@ -73,3 +73,6 @@ Day	Milestone
     -Murugeshwari Subramanian
     -for the Google Cloud Agent Development Kit Hackathon
     -Special thanks to Google Cloud for the tools that made this possible.
+## Note:
+    -Due to security, API credentials are not stored in this repo. 
+    -Google Cloud keys are securely accessed via Secret Manager at runtime.
