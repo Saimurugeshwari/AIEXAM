@@ -5,11 +5,8 @@ This project was created for the Google Cloud Agent Development Kit (ADK) Hackat
 
 # MVP Focus: Exam Mode Only
 This Minimum Viable Product (MVP) focuses only on Exam Mode, with three supported accessibility flows:
-
 -Deaf — Read questions on screen and type answers
-
 -Blind — Questions are read aloud; answers are spoken and transcribed
-
 -Mute — Same as Deaf (type-based input)
 
 # Practice Mode, Clarifier Agents, and Sign Language Input are planned for future updates.
