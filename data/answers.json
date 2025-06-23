@@ -100,5 +100,17 @@
     "question": "What is 5 multiplied by 7?",
     "answer": "35",
     "disability": "Mute"
+  },
+  {
+    "timestamp": "2025-06-23T09:59:37.279618",
+    "question": "Who is the current President of the United States?",
+    "answer": "Trump",
+    "disability": "Blind"
+  },
+  {
+    "timestamp": "2025-06-23T09:59:46.208924",
+    "question": "What is 5 multiplied by 7?",
+    "answer": "[unrecognized audio]",
+    "disability": "Blind"
   }
 ]
