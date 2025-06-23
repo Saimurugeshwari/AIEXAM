@@ -11,7 +11,7 @@ import os
 load_dotenv()
 
 
-#Initialize agents
+# Initialize agents
 reader = ReaderAgent()
 listener = ListenerAgent()
 formatter = FormatterAgent()

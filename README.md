@@ -74,5 +74,5 @@ Day	Milestone
     -for the Google Cloud Agent Development Kit Hackathon
     -Special thanks to Google Cloud for the tools that made this possible.
 ## Note:
-    -Due to security, API credentials are not stored in this repo. 
+    -Due to security, API credentials are not stored in this repo 
     -Google Cloud keys are securely accessed via Secret Manager at runtime.

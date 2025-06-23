@@ -1,116 +1,44 @@
 [
   {
-    "timestamp": "2025-06-22T20:18:29.418000",
-    "question": "What is the capital of India?",
-    "answer": "New delhi",
-    "disability": "Blind"
-  },
-  {
-    "timestamp": "2025-06-22T20:18:38.786581",
-    "question": "Who is the current President of the United States?",
-    "answer": "Trump",
-    "disability": "Blind"
-  },
-  {
-    "timestamp": "2025-06-22T20:18:47.913133",
+    "timestamp": "2025-06-23T10:49:51.305577",
     "question": "What is 5 multiplied by 7?",
     "answer": "35",
     "disability": "Blind"
   },
   {
-    "timestamp": "2025-06-22T20:19:06.945808",
-    "question": "What is the capital of India?",
-    "answer": "New dehli",
-    "disability": "Deaf"
-  },
-  {
-    "timestamp": "2025-06-22T20:19:12.061874",
-    "question": "Who is the current President of the United States?",
-    "answer": "Trump",
-    "disability": "Deaf"
-  },
-  {
-    "timestamp": "2025-06-22T20:19:15.745830",
-    "question": "What is 5 multiplied by 7?",
-    "answer": "35",
-    "disability": "Deaf"
-  },
-  {
-    "timestamp": "2025-06-22T20:19:30.162185",
-    "question": "What is the capital of India?",
-    "answer": "New delhi",
-    "disability": "Mute"
-  },
-  {
-    "timestamp": "2025-06-22T20:19:35.886500",
-    "question": "Who is the current President of the United States?",
-    "answer": "Trump",
-    "disability": "Mute"
-  },
-  {
-    "timestamp": "2025-06-22T20:19:40.015505",
-    "question": "What is 5 multiplied by 7?",
-    "answer": "35",
-    "disability": "Mute"
-  },
-  {
-    "timestamp": "2025-06-23T09:38:17.707910",
-    "question": "What is the capital of India?",
-    "answer": "New delhi",
-    "disability": "Blind"
-  },
-  {
-    "timestamp": "2025-06-23T09:38:27.081312",
-    "question": "Who is the current President of the United States?",
-    "answer": "Trump",
-    "disability": "Blind"
-  },
-  {
-    "timestamp": "2025-06-23T09:38:50.960418",
+    "timestamp": "2025-06-23T10:50:04.378004",
     "question": "What is the capital of India?",
     "answer": "New delhi",
     "disability": "Deaf"
   },
   {
-    "timestamp": "2025-06-23T09:38:55.255876",
+    "timestamp": "2025-06-23T10:50:09.382085",
     "question": "Who is the current President of the United States?",
     "answer": "Trump",
     "disability": "Deaf"
   },
   {
-    "timestamp": "2025-06-23T09:38:59.350365",
+    "timestamp": "2025-06-23T10:50:13.321748",
     "question": "What is 5 multiplied by 7?",
     "answer": "35",
     "disability": "Deaf"
   },
   {
-    "timestamp": "2025-06-23T09:39:10.182150",
+    "timestamp": "2025-06-23T10:50:26.083168",
     "question": "What is the capital of India?",
     "answer": "New delhi",
     "disability": "Mute"
   },
   {
-    "timestamp": "2025-06-23T09:39:18.322731",
+    "timestamp": "2025-06-23T10:50:30.046250",
     "question": "Who is the current President of the United States?",
     "answer": "Trump",
     "disability": "Mute"
   },
   {
-    "timestamp": "2025-06-23T09:39:22.037224",
+    "timestamp": "2025-06-23T10:50:33.309155",
     "question": "What is 5 multiplied by 7?",
     "answer": "35",
     "disability": "Mute"
-  },
-  {
-    "timestamp": "2025-06-23T09:59:37.279618",
-    "question": "Who is the current President of the United States?",
-    "answer": "Trump",
-    "disability": "Blind"
-  },
-  {
-    "timestamp": "2025-06-23T09:59:46.208924",
-    "question": "What is 5 multiplied by 7?",
-    "answer": "[unrecognized audio]",
-    "disability": "Blind"
   }
 ]

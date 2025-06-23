@@ -16,15 +16,15 @@ def load_gcp_credentials_from_secret(secret_id="aiexam-service-key", project_id=
     with open(temp_path, "w") as f:
         f.write(key_json)
 
-    # Set environment variable for all downstream API calls
+    # Set environment variable for all downstream API call
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = temp_path
     print(f"Loaded GCP key from Secret Manager → {temp_path}")
-
-
+    
 if __name__ == "__main__":
     load_gcp_credentials_from_secret()  # Securely load key
     demo = build_ui()
     demo.launch()
+
 
 
 

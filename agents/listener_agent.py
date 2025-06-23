@@ -7,7 +7,7 @@ class ListenerAgent:
     def __init__(self, sample_rate=44100, duration=5):
         self.sample_rate = sample_rate
         self.duration = duration
-        self.session_audio = []  # To hold audio chunks
+        self.session_audio = []  # hold audio chunks
 
     def record_audio(self):
         print("Recording... Please speak now.")
