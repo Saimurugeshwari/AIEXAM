@@ -30,7 +30,7 @@ def synthesize_text(text, output=None):
         out.write(response.audio_content)
         print(f"[TTS] Audio content written to {output}")
 
-    # ✅ Play using pygame and ensure release
+    # Play using pygame
     pygame.mixer.init()
     pygame.mixer.music.load(output)
     pygame.mixer.music.play()
@@ -38,7 +38,7 @@ def synthesize_text(text, output=None):
     while pygame.mixer.music.get_busy():
         pygame.time.Clock().tick(10)  # smoother loop than `continue`
 
-    # ✅ Unload audio and safely delete
+    # Unload audio and safely delete
     pygame.mixer.music.unload()
     pygame.mixer.quit()
 
