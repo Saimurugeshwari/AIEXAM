@@ -66,9 +66,9 @@ def submit_answer(answer_text, disability):
         next_question = questions[current_question_index]
         if disability == "Blind":
             reader.speak(next_question)
-            return "🔊 Question being read aloud...", next_question, "", gr.update(visible=False)
+            return " Question being read aloud...", next_question, "", gr.update(visible=False)
         else:
-            return "📝 Please type your answer below and click Submit.", next_question, "", gr.update(visible=True)
+            return " Please type your answer below and click Submit.", next_question, "", gr.update(visible=True)
 
     # When all questions are done
     return "Exam completed and logged.", "", "", gr.update(visible=False)
